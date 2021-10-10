@@ -1,0 +1,1 @@
+# Mapa_aleatorio_covid
